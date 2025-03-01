@@ -207,12 +207,6 @@ make build-prod
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# Welcome to Udemy Go Labs!
+# Udemy Go Labs!
 
-Go labs are based on Go ??? in the Ubuntu distribution. You can practice Go coding as you follow the lab tasks.
-
-Following commands are also supported: 
-* vim 
-* wget 
-* zsh
 
